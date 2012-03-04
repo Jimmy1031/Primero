@@ -26,5 +26,4 @@
 	}
 	require_once dirname(__FILE__).'/'.MODULE_PATH.$mod.'/'.$acc.'.php';
 	require_once dirname(__FILE__).'/'.TEMPLATE_PATH.'foot.php';
-	//holahola chau//
 ?>
